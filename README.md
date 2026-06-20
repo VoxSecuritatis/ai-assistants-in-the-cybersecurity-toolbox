@@ -1,7 +1,7 @@
 # **AI Assistants in the Cybersecurity Toolbox**
 ### Using the Right AI Tool for the Right Cybersecurity Job
 
-Author:  Brock Frary | Published: 2026-05-24 | Updated: 2026-06-20
+Directed and co-authored by:  Brock Frary | Published: 2026-05-24 | Updated: 2026-06-20
 
 Experienced cybersecurity professionals understand an important operational reality: no single tool solves every problem.
 
@@ -374,3 +374,4 @@ Sallam, M. (2023). ChatGPT utility in healthcare education, research, and practi
 
 ---
 
+© 2026 Brock Frary. All rights reserved.
