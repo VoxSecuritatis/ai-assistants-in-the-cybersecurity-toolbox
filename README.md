@@ -373,5 +373,6 @@ Replit. (n.d.). Replit: Build apps and sites with AI. Retrieved May 24, 2026, fr
 Sallam, M. (2023). ChatGPT utility in healthcare education, research, and practice: Systematic review on the promising perspectives and valid concerns. Healthcare, 11(6), 887. https://doi.org/10.3390/healthcare11060887
 
 ---
+AI Assistance Disclosure: This work was developed with assistance from ChatGPT by OpenAI for brainstorming, drafting, editing, formatting, and refinement. Final review, decisions, and responsibility for the content remain with the human author.
 
 © 2026 Brock Frary. All rights reserved.
