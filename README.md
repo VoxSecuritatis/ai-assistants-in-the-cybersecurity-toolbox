@@ -1,7 +1,7 @@
 # **AI Assistants in the Cybersecurity Toolbox**
 ### Using the Right AI Tool for the Right Cybersecurity Job
 
-Directed and co-authored by:  Brock Frary | Published: 2026-05-24 | Updated: 2026-06-20
+Directed and co-authored by:  Brock Frary and OpenAI ChatGPT | Published: 2026-05-24 | Updated: 2026-07-01
 
 Experienced cybersecurity professionals understand an important operational reality: no single tool solves every problem.
 
